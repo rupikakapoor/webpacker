@@ -6,8 +6,7 @@ gem "rails"
 gem "rake", ">= 11.1"
 gem "rubocop", ">= 0.49", require: false
 gem "rack-proxy", require: false
-gem "pg",
-gem "mysql2"
+gem "pg"
 
 group :test do
   gem "minitest", "~> 5.0"
