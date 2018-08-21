@@ -7,6 +7,7 @@ defaults:
   npm:  false
   precompile_assets: true
   precompile_unchanged_assets: true
+  ignore_database_adapter_warning: true
 asset_dependencies:
 - app/assets
 - lib/assets
