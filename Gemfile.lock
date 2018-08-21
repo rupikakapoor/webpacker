@@ -140,7 +140,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler (~> 1.16)
+  bundler (~> 1.14)
   byebug
   minitest (~> 5.0)
   rack-proxy
@@ -150,4 +150,4 @@ DEPENDENCIES
   webpacker!
 
 BUNDLED WITH
-   1.16.4
+   1.14.4
