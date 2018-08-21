@@ -1,1 +1,1 @@
-run! “cd #{config.release_path} && yarn"
+run "cd #{config.release_path} && yarn"
