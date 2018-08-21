@@ -7,7 +7,6 @@ gem "rake", ">= 11.1"
 gem "rubocop", ">= 0.49", require: false
 gem "rack-proxy", require: false
 gem "pg",
-gem "mysql",
 gem "mysql2"
 
 group :test do
